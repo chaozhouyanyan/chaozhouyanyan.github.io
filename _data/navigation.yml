@@ -8,26 +8,26 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
+  - title: "关于燕燕救助筹款事件"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "关于燕宝爸妈的真相"
+    url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
+  - title: "AI 对于事件的定性 - 诈骗？"
+    url: /teaching/
+
+  - title: "事件分析 - 诈骗大团的方式和话术"
     url: /portfolio/
-        
-  - title: "Blog Posts"
+
+  - title: "每日小结"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
+
   # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+  #   url: /cv/
+  #
+  # # - title: "CV"
+  # #   url: /cv-json/
+  #
+  # - title: "Guide"
+  #   url: /markdown/

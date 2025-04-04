@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv-json/
-author_profile: false
+author_profile: true
 redirect_from:
   - /resume-json
 ---
@@ -19,7 +19,7 @@ redirect_from:
     float: none;
     padding-right: 0;
   }
-  
+
   @media (min-width: 80em) {
     .archive {
       width: 70%;
