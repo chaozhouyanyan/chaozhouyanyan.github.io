@@ -8,16 +8,16 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "关于燕燕救助筹款事件"
+  - title: "救助筹款事件"
     url: /publications/
 
-  - title: "关于燕宝爸妈的真相"
+  - title: "燕宝爸妈的真相"
     url: /talks/
 
-  - title: "AI 对于事件的定性 - 诈骗？"
+  - title: "募捐定性-诈骗"
     url: /teaching/
 
-  - title: "事件分析 - 诈骗大团的方式和话术"
+  - title: "诈骗团的方式和话术"
     url: /portfolio/
 
   - title: "每日小结"
