@@ -15,6 +15,7 @@ redirect_from:
 
 所以我还是打心里很相信孩子爹就是小确幸说的是很糟糕很烂的的人，才导致这个事情的发生！我还有特地去问下这两个姐妹，是不是他们2公婆在村里名声很不好呢?她们说他们都有去了解！那我就更加可怜这个孩子了。但当群里面越来越多人声讨这个孩子爹的时候我觉得更奇怪奇怪！好像都在带节奏往孩子爹身上找原因?为什么小确幸和收款人苗苗都只关心让人发小红书，拉人头，先凑钱！因为孩子按照潮州目前的费用募捐应该是够前期+所谓转院或者其他额外支出费用的！如若后期需要康复，这些群也是还是在，大家可以一直捐，为何一直强调孩子需要大量大量的费用！（看下图）
 
+![大量大量的费用](/images/大量费用0.png)
 
 以上这一些人，都是一个团队的。 每次都是自导自演，在群里带节奏。 每次都是她们说话，自己解释。 然后还扮演各种角色。如果有人质疑，也是这些人一个劲儿的霸凌和刷屏。
 
@@ -47,7 +48,7 @@ redirect_from:
 关于募捐款的本身，我下个帖子继续曝光。
 
 
-A data-driven personal website
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -84,4 +85,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
